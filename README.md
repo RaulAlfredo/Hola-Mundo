@@ -1,5 +1,5 @@
-# Hola-Mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Raul M.
 
